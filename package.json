@@ -4,7 +4,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "deploy": "bash script/deploy"
+    "deploy": "bash script/deploy",
+    "start": "node app.js"
+    
   },
   "author": "",
   "license": "ISC",
